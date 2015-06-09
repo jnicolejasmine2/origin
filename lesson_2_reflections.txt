@@ -11,3 +11,11 @@ What value do you think it offers?
 Staging area is where you decide which files will be
 updated in the commit. It allows you to make changes 
 and save them until you are ready to commit as a group. 
+
+
+How can you use the staging area to make sure you 
+have one commit per logical change?
+
+You can make all your changes and move them at once as a
+unit. You can use status to make sure you did not miss
+anything or something needs to be backed out. 
